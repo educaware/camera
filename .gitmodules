@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/educaware/camera-server.git
+[submodule "bot"]
+	path = bot
+	url = https://github.com/educaware/camera-bot.git
+[submodule "client"]
+	path = client
+	url = https://github.com/educaware/camera-client.git
